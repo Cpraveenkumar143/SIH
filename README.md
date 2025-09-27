@@ -223,3 +223,12 @@ print(f"   • Efficiency: {max(0, 100 - (sum(t['delay'] for t in sim.trains)/le
 print("\n🚆 Final Train Status:")
 for t in sim.trains:
     print(f"   • {t['id']}: At {t['position']} | Total delay: {t['delay']}min | Priority: {'⭐' * t['priority']}")
+
+
+
+
+
+    IMAGES:  (https://github.com/user-attachments/assets/69395a5f-4d3b-4367-870b-381c7800fc35)
+    (https://github.com/user-attachments/assets/08bf667b-aa36-444c-ad67-0c05f6b97f20)
+
+
